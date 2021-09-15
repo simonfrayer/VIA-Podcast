@@ -1,0 +1,27 @@
+*{
+
+    font-size: 1rem;
+    font-family: "Times New Roman", "Arial Black", fantasy;
+}
+
+body{
+background-image: url("images/mic-photo.jfif");
+    color: sandybrown;
+    background-position: initial;
+    background-attachment: fixed;
+}
+
+a:link{
+    color: sandybrown;
+}
+a:visited{
+
+    color: sandybrown;
+
+}
+#header{
+    text-align: center;
+}
+#VIA-header{
+    font-size: 1.5rem;
+}
